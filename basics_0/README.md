@@ -1,4 +1,4 @@
-#Networking basics #0
+# Networking basics #0
 
 <p align="center">
 <img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/25fc08f2-d37b-440c-b6da-b08a5f8e88b3" />
